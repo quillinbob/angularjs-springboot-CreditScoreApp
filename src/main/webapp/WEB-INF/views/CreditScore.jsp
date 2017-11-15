@@ -10,7 +10,7 @@
   <body ng-app="myApp" class="ng-cloak">
       <div class="generic-container" ng-controller="CreditController as ctrl">
           <div class="panel panel-default">
-              <div class="panel-heading"><span class="lead">Customer Credit Score - demo app - BobQ Nov 15 Noon</span></div>
+              <div class="panel-heading"><span class="lead">Customer Credit Score - demo app - BobQ Nov 15 Verifone</span></div>
               <div class="formcontainer">
                   <form ng-submit="ctrl.submit()" name="myForm" class="form-horizontal">
                       <input type="hidden" ng-model="ctrl.user.id" />
